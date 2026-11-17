@@ -1,0 +1,6 @@
+{
+  "name": "Alfaone HC",
+  "description": "Human Capital & Employee Self-Service app for digital attendance, leave & permit requests, shift schedules, and payroll summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

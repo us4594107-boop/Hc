@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Alfaone HC</string>
+    <string name="subtitle_enterprise">Human Capital Portal</string>
+    <string name="local_mode_notice">Data tersimpan aman secara lokal di perangkat Anda.</string>
+    <string name="signin_title">Masuk ke Alfaone HC</string>
+    <string name="signin_subtitle">Gunakan NIK dan PIN HC karyawan Anda untuk mengakses presensi, cuti, jadwal shift, dan slip gaji.</string>
+    <string name="label_nik">NIK Karyawan</string>
+    <string name="hint_nik">Contoh: 21040892</string>
+    <string name="label_pin">PIN HC (6 Digit)</string>
+    <string name="hint_pin">Masukkan 6 digit PIN</string>
+    <string name="btn_signin">Masuk</string>
+    <string name="btn_fill_demo">Gunakan Akun Demo (21040892)</string>
+    <string name="error_invalid_credentials">NIK atau PIN HC tidak sesuai. Akun demo: NIK 21040892, PIN 123456.</string>
+
+    <string name="nav_home">Beranda</string>
+    <string name="nav_attendance">Presensi</string>
+    <string name="nav_requests">Pengajuan</string>
+    <string name="nav_payroll">Slip Gaji</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="btn_clock_in">Clock In</string>
+    <string name="btn_start_break">Mulai Istirahat</string>
+    <string name="btn_end_break">Selesai Istirahat</string>
+    <string name="btn_clock_out">Clock Out</string>
+    <string name="btn_verify_location">Verifikasi Lokasi</string>
+    <string name="btn_new_request">Ajukan</string>
+    <string name="btn_correction">Koreksi Absen</string>
+    <string name="btn_share_payslip">Bagikan Ringkasan</string>
+    <string name="btn_change_pin">Ubah PIN HC</string>
+    <string name="btn_sign_out">Keluar Akun</string>
+
+    <string name="cd_hero_banner">Ilustrasi gedung kantor pusat retail modern</string>
+    <string name="cd_employee_avatar">Foto profil karyawan</string>
+    <string name="cd_toggle_pin_visibility">Tampilkan atau sembunyikan PIN</string>
+    <string name="cd_toggle_salary_visibility">Tampilkan atau sembunyikan nominal gaji</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_attachment_preview">Lampiran dokumen pendukung</string>
+</resources>
